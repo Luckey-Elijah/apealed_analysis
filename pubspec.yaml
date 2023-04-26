@@ -1,7 +1,7 @@
 name: apealed_analysis
 description: pedantic and very_good_analysis inspired lint rules with my own taste.
 version: 0.0.1
-repository: https://github.com/Luckye-Elijah/apealed_analysis
+repository: https://github.com/Luckey-Elijah/apealed_analysis
 
 environment:
-  sdk: '>=2.19.0 <3.0.0'
+  sdk: ">=2.19.0 <3.0.0"
