@@ -1,3 +1,23 @@
+# 0.0.2
+
+## Analyzer Changes
+
+### [Severity Updates (`errors`)](https://dart.dev/guides/language/analysis-options#changing-the-severity-of-rules):
+
+- [`record_literal_one_positional_no_trailing_comma`](https://dart.dev/tools/diagnostic-messages#record_literal_one_positional_no_trailing_comma) as `error`
+
+### Linter Rules:
+
+#### Removed
+
+- [`enable_null_safety`](https://dart-lang.github.io/linter/lints/enable_null_safety.html)
+- [`prefer_equal_for_default_values`](https://dart-lang.github.io/linter/lints/prefer_equal_for_default_values.html)
+
+#### Added
+- [`implicit_reopen`](https://dart-lang.github.io/linter/lints/implicit_reopen.html)
+- [`invalid_case_patterns`](https://dart-lang.github.io/linter/lints/invalid_case_patterns.html)
+- [`unnecessary_breaks`](https://dart-lang.github.io/linter/lints/unnecessary_breaks.html)
+
 # 0.0.1
 
 Initial release 🎉
